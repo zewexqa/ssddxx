@@ -54,7 +54,7 @@ int main(){
 		//The following lines of code are not completed. Please correct it.
 		/*
 		________________ = drawCard();
-        playerScore = ________________;
+                playerScore = ________________;
 		cout << "Player draws the 3rd card!!!" << "\n";
 		cout << "Your 3rd card: " << "\n";
 		cout << "Your new score: " << "\n";
